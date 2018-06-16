@@ -16,12 +16,7 @@ DerivedData
 *.xcscmblueprint
 
 # Android Studio
-**/.idea/libraries
-**/.idea/workspace.xml
-**/.idea/gradle.xml
-**/.idea/misc.xml
-**/.idea/modules.xml
-**/.idea/vcs.xml
+**/.idea/
 *.iml
 .gradle
 /android/app/build
